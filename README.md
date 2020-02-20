@@ -1,1 +1,1 @@
-# this solutions is for for Andrew Ng Machine Learning course.
+# Andrew Ng Machine Learning Python Implementation.
