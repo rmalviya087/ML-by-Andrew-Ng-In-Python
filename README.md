@@ -1,1 +1,1 @@
-# this is a solutions for Andrew Ng Machine Learning couese.
+# this solutions is for for Andrew Ng Machine Learning course.
